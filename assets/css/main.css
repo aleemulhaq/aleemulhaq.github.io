@@ -188,7 +188,7 @@
 		),
 		linear-gradient(
 			-90deg,
-			coral,
+			rgb(40, 52, 224),
 			transparent
 		);
 		background-blend-mode: screen;
