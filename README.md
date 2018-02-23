@@ -2,6 +2,6 @@
 
 Aleem Ul Haq's website portfolio
 
-![Alt text](img/website.jpg?raw=true"Screenshot")
+![alt tag](http://aleemulhaq.github.io/img/website.jpg)
 
-![Alt text](img/website_scroll.jpg?raw=true"Screenshot 2")
+![alt tag](http://aleemulhaq.github.io/img/website_scroll.jpg)
