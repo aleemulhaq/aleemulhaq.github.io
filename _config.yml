@@ -91,8 +91,8 @@ content:
     content:
       - layout: left
         title: McMaster University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        caption: 2013 - 2022
+        sub_title: BSc Computer Science Honours Co-op
         quote: >
           Established in 1636, McMaster is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
