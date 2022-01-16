@@ -32,7 +32,7 @@ youtube_username: aleemhaq
 # Additional icon links
 additional_links:
  - title: Resume
-   icon: fab fa-file-text-o fa-1x
+   icon: fas fa-file-alt
    url: /aleemulhaq.github.io/Resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
