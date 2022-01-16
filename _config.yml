@@ -57,6 +57,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Urbint
+        link: urbint.com
+        # link_text: myesm.ca
+        sub_title: Intermediate QA Automation Engineer
+        caption: August 2021 - December 2021
+        quote: >
+          Urbint uses artificial intelligence to predict threats to workers and critical infrastructure and stop incidents before they happen
+        description: | # this will include new lines to allow paragraphs
+            - Working with Django framework, Fast API, React.js and Cucumber etc.
+            - Load and performance testing, mutation testing, testing strategies and modern QA practices
+      
+      - layout: left
         title: Equestrian Show Manager
         link: myesm.ca
         # link_text: myesm.ca
