@@ -63,7 +63,7 @@ content:
         sub_title: Intermediate QA Automation Engineer
         caption: August 2021 - December 2021
         quote: >
-          Artificial intelligence to predict threats to workers and critical infrastructure and stop incidents before they happen
+          Artificial intelligence to predict threats to workers and critical infrastructure
         description: | # this will include new lines to allow paragraphs
             - Working with Django framework, Fast API, React.js and Cucumber etc.
             - Load and performance testing, mutation testing, testing strategies and modern QA practices
@@ -134,7 +134,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          VR Casino: Simulated Virtual Reality for modelling risk aversion
+          Simulated Virtual Reality for modelling risk aversion
         description: | # this will include new lines to allow paragraphs
           - A virtual reality casino, used to model how human behaviour is affected by risk aversion
           - Built using Unity game engine and HTC Vive
