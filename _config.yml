@@ -63,11 +63,11 @@ content:
         sub_title: Intermediate QA Automation Engineer
         caption: August 2021 - December 2021
         quote: >
-          Urbint uses artificial intelligence to predict threats to workers and critical infrastructure and stop incidents before they happen
+          Artificial intelligence to predict threats to workers and critical infrastructure and stop incidents before they happen
         description: | # this will include new lines to allow paragraphs
             - Working with Django framework, Fast API, React.js and Cucumber etc.
             - Load and performance testing, mutation testing, testing strategies and modern QA practices
-      
+
       - layout: left
         title: Equestrian Show Manager
         link: myesm.ca
@@ -79,6 +79,33 @@ content:
         description: | # this will include new lines to allow paragraphs
             - Working with Ruby Rails MVC framework, React.js and Cucumber
             - Added Square payment integration for real-time online card payments, upgrading the older pay-in-person model
+      
+      - layout: left
+        title: theScore
+        link: thescore.com
+        # link_text: myesm.ca
+        sub_title: Software Developer
+        caption: April 2018 - August 2019
+        quote: >
+          Top news, game statistics and online sports gambling 
+        description: | # this will include new lines to allow paragraphs
+            - Developed an automated testing pipeline using Jenkins CI, Appium and Cucumber BDD for theScore’s mobile sports betting platform
+            - Implemented a Python framework to conduct load testing for API and server resources. Identifying and resolving major server and devops issues
+            - Wrote scripts to automate load capacity and latency testing of theScore’s live chat feature
+            - Responsible for tracking, assessing and triaging bugs for theScore’s internal bug tracking system
+
+      - layout: left
+        title: theScore
+        link: thescore.com
+        # link_text: myesm.ca
+        sub_title: QA Automation Intern
+        caption: May 2016 - August 2017
+        quote: >
+          Top news, game statistics and online sports gambling 
+        description: | # this will include new lines to allow paragraphs
+            - Contributed to development and testing of theScore’s Android and iOS applications
+            - Developed UAT testing framework using Appium, which reduced a 2 week manual regression testing process to a 15 hour automated testing pipeline
+            - Over 500, 000 lines of code contributions to theScore’s Github repository
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,11 +115,9 @@ content:
         caption: 2013 - 2022
         sub_title: Honours Computer Science (B.A.Sc.)
         quote: >
-          Established in 1636, McMaster is the oldest higher education institution in Canada, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 1881, now located on a beautiful campus in the waterfall capitol of the world, Hamilton Ontario, Canada
         description: | # this will include new lines to allow paragraphs
           During my time at McMaster I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *McMaster Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
   
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
