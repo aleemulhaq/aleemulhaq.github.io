@@ -53,27 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled at: <mark>Functional Programming</mark> and <mark>Ping Pong</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Research Casino VR
-        link: github.com/aleemulhaq/Capstone-project-VR-Casino
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  aleemulhaq/aleemulhaq.github.io
-        #     icon: fab fa-github
-        #     url: github.com/aleemulhaq/aleemulhaq.github.io
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          VR Casino: Simulated Virtual Reality for modelling risk aversion
-        description: | # this will include new lines to allow paragraphs
-          - A virtual reality casino, used to model how human behaviour is affected by risk aversion
-          - Built using Unity game engine and HTC Vive
-          - Project used in a neuroscience and economics research paper
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -102,6 +81,27 @@ content:
           During my time at McMaster I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *McMaster Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Research Casino VR
+        link: github.com/aleemulhaq/Capstone-project-VR-Casino
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  aleemulhaq/aleemulhaq.github.io
+        #     icon: fab fa-github
+        #     url: github.com/aleemulhaq/aleemulhaq.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          VR Casino: Simulated Virtual Reality for modelling risk aversion
+        description: | # this will include new lines to allow paragraphs
+          - A virtual reality casino, used to model how human behaviour is affected by risk aversion
+          - Built using Unity game engine and HTC Vive
+          - Project used in a neuroscience and economics research paper
 
   - title: A Little More About Me
     layout: text
