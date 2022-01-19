@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aleem and I'm a Computer Science graduate and a software developer. I usually develop desktop software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Aleem and I'm a Computer Science graduate and a software developer. I develop general purpose software, mobile and web applications. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled at: <mark>Functional Programming</mark> and <mark>Ping Pong</mark>
 
@@ -58,7 +58,7 @@ content:
     content:
       - layout: left
         title: McMaster University
-        caption: 2013 - 2022
+        caption: Expected Graduation: April 2022
         sub_title: Honours Computer Science (B.A.Sc.)
         quote: >
           Established in 1881, now located on a beautiful campus in the waterfall capital of the world, Hamilton Ontario, Canada
