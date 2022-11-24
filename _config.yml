@@ -63,7 +63,7 @@ content:
         quote: >
           Established in 1881, now located on a beautiful campus in the waterfall capital of the world, Hamilton Ontario, Canada
         description: | # this will include new lines to allow paragraphs
-          During my time at McMaster I developed my technical skillset that I take now to my career, such as teamwork and delivering quality projects on time. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at McMaster university, I developed my technical skillset that I take now to my career, such as teamwork and delivering quality projects on time. I thouroughly enjoyed my time in school and learnt a lot about a healthy work life balance.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
